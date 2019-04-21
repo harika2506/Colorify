@@ -35,3 +35,4 @@ Project Structure
     └── home.html
 
 7 directories, 21 files
+Updated Readme
