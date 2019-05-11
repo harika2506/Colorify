@@ -1,25 +1,25 @@
-img{
+.column img{
     object-fit: cover;
     border-radius: 8px;
     border: wheat;
     float: left;
-    border-width: thin ;    
+    border-width: thin ;
     border: 5px solid;
     padding: 15px;
     font-family: 'Playfair Display', serif;
-  }
-  /* * {
-    box-sizing: border-box;
-  } */
+}
+/* * {
+  box-sizing: border-box;
+} */
 
 .row {
     display: flex;
-  }
-  
+}
+
 .column {
     flex: 33.33%;
     padding: 5px;
-  }
+}
 
 #column input{
     /* display: inline-block;
@@ -32,6 +32,7 @@ img{
     max-height:500px;
     min-height:21%;
 }
+
 
 #row input{
     display: inline-block;
@@ -76,3 +77,4 @@ label {
 submit {
     display: block;
 }
+
